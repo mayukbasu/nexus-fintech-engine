@@ -1,6 +1,6 @@
 # NEXUS : Multi-Agent FinTech Decision Engine
 
-> *An end-to-end agentic AI platform for payment network intelligence — built for contexts like Mastercard & American Express.*
+> *An end-to-end agentic AI platform for payment network intelligence — built for large scale companies like Mastercard & American Express.*
 
 [![Python](https://img.shields.io/badge/Python-3.11+-blue.svg)](https://python.org)
 [![Anthropic](https://img.shields.io/badge/Powered%20by-Claude%20Sonnet-orange.svg)](https://anthropic.com)
