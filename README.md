@@ -1,4 +1,4 @@
-# NEXUS — Multi-Agent FinTech Decision Engine
+# NEXUS : Multi-Agent FinTech Decision Engine
 
 > *An end-to-end agentic AI platform for payment network intelligence — built for contexts like Mastercard & American Express.*
 
